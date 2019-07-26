@@ -1,0 +1,17 @@
+.menu {
+  background: $oscuro;
+  color: $claro;
+  position: absolute;
+  width: 10rem;
+  height: 96.5%;
+  margin: 0;
+  padding: 1rem;
+  top: 0;
+  left: 0;
+
+  a{
+      text-decoration: none;
+      color: $claro;
+      font-weight: bold;
+  }
+}
