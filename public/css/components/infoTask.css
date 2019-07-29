@@ -1,0 +1,30 @@
+.ficha {
+  position: absolute;
+  top: 4rem;
+  left: 9rem;
+  width: 90%;
+  height: 50rem;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5); }
+  .ficha .bola {
+    width: 2rem;
+    height: 2rem;
+    border-radius: 2rem; }
+  .ficha .azul {
+    border: 1px solid #0077ff;
+    background: #0077ff; }
+  .ficha .verde {
+    border: 1px solid #32b450;
+    background: #32b450; }
+  .ficha .narganja {
+    border: 1px solid #ff7200;
+    background: #ff7200; }
+  .ficha .amarillo {
+    border: 1px solid #ffee00;
+    background: #ffee00; }
+  .ficha .rojo {
+    border: 1px solid #ff3333;
+    background: #ff3333; }
+  .ficha .negro {
+    border: 1px solid #2a2c2e;
+    background: #2a2c2e; }

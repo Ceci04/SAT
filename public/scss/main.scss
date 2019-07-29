@@ -2,6 +2,7 @@
 
 * {
   font-family: "Raleway", sans-serif;
+  font-size: 1rem;
 }
 
 // COLORES
@@ -12,6 +13,8 @@ $primero: #ff3333;
 $segundo: #00b5b4;
 $tercero: #32b450;
 
-@import "components/home.scss";
 @import "components/menu.scss";
+@import "components/home.scss";
+@import "components/newTask.scss";
+@import "components/infoTask.scss";
 
