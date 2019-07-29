@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway&display=swap");
+
+* {
+  font-family: "Raleway", sans-serif;
+}
+
+// COLORES
+
+$oscuro: #2a2c2e;
+$claro: #fff;
+$primero: #ff3333;
+$segundo: #00b5b4;
+$tercero: #32b450;
+
+@import "components/home.scss";
+@import "components/menu.scss";
+
